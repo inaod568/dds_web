@@ -3,6 +3,7 @@
 ![Linting](https://github.com/ScilifelabDataCentre/dds_web/actions/workflows/python-black.yml/badge.svg)
 ![Tests](https://github.com/ScilifelabDataCentre/dds_web/actions/workflows/docker-compose-tests.yml/badge.svg)
 [![codecov](https://codecov.io/gh/ScilifelabDataCentre/dds_web/branch/dev/graph/badge.svg?token=r5tM6o08Sd)](https://codecov.io/gh/ScilifelabDataCentre/dds_web)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finaod568%2Fdds_web.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Finaod568%2Fdds_web?ref=badge_shield)
 
 # SciLifeLab Data Centre - Data Delivery System
 
@@ -239,3 +240,7 @@ Before you can use the system, you must run `flask db upgrade` to initialise the
 ### Upgrades
 
 Whenever you upgrade to a newer version, start by running `flask db upgrade` to make sure that the database schema is up-to-date.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finaod568%2Fdds_web.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Finaod568%2Fdds_web?ref=badge_large)
